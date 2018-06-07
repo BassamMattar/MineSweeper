@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1480955546 source:d:\minesweeper2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mine.h"
+	<time.h>
+	<windows.h>
+
+1480955315 d:\minesweeper2.0\mine.h
+
+1480955602 source:d:\bassam\minesweeper2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mine.h"
+	<time.h>
+	<windows.h>
+
+1480955315 d:\bassam\minesweeper2.0\mine.h
+
